@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 const Header = () => {
   const [Toggle, showMenu] = useState(false);
   return (
-    <header className="header">
+    <header id="header" className="header">
       <nav className="nav container">
         <a href="#home" className="nav__logo">
         Future Leaders Fund

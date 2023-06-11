@@ -14,8 +14,8 @@ const Footer = () => {
       <div>
         <img src={image} alt="Founder" />
 
-        <h2>Harsh Srivastav</h2>
-        <p>Motivation is temporary, but discipline last forever.</p>
+        <h2>  Future Leaders Fund</h2>
+        <p>The future of the world depends on the education of our children</p>
       </div>
 
       <aside>
