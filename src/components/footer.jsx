@@ -6,7 +6,7 @@ import {
   AiFillYoutube,
   AiOutlineArrowUp,
 } from "react-icons/ai";
-import image from "../assets/2.jpg";
+import image from "../assets/logopng.png";
 
 const Footer = () => {
   return (
