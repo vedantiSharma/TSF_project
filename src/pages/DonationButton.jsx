@@ -14,7 +14,7 @@ const DonationButton = () => {
   }, []);
 
   return (
-    <div>
+    <div c>
       <h2>Donation Form</h2>
       <form id="donation-form">
         {/* The Razorpay donation button will be inserted here */}

@@ -1,12 +1,11 @@
 
-
 import React from "react";
 
 import { motion } from "framer-motion";
-import Social from "./Social";
-import Data from "./Data";
+import Social from "../pages/Social";
+import Data from "../pages/Data";
 
-import Work from "./Work";
+import Work from "../pages/Work";
 
 
 const Home = () => {
@@ -68,4 +67,3 @@ const Home = () => {
 };
 
 export default Home;
-
