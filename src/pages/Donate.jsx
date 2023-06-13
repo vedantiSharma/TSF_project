@@ -37,7 +37,7 @@ const DonationButton = () => {
       >
         <Meta title="Future Leaders Fund" />
         <p>
-          Your funds will be used to provide education to children who are not able to access proper education.
+        Your donation provides education, healthcare, and hope. Give today and make a difference in their future.
         </p>
         <form id="donation-form">
           {/* The Razorpay donation button will be inserted here */}

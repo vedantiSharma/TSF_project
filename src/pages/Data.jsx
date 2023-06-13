@@ -63,10 +63,10 @@ const Data = () => {
         style={{ color: "hsl(var(--hue), var(--sat), 20%)" }}
         className="home__subtitle"
       >
-        Making Education a Reality for Every Child
-      </h3>
+         Investing in the education of children is investing in a brighter future for all.
+  </h3>
       <p className="home__description">
-      Welcome to our charity website dedicated to providing education opportunities for children living in poverty. We believe that every child deserves a chance to learn, grow, and break free from the cycle of poverty.
+      Welcome to our charity website! Join us in creating a brighter future for every child, ensuring their growth, happiness, and success. Together, we can make a lasting impact on their lives.
       </p>
 
       <Link to={"/donate"}  className="button button--flex">

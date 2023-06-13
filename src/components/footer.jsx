@@ -22,10 +22,10 @@ const Footer = () => {
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://www.linkedin.com/in/harsh-srivastav2024/" target={"blank"}>
+          <a href="https://www.linkedin.com/in/vedanti-sharma-3ab082215/" target={"blank"}>
             <AiFillLinkedin />
           </a>
-          <a href="https://github.com/Hasrivastav" target={"blank"}>
+          <a href="https://github.com/vedantiSharma" target={"blank"}>
             <AiFillGithub />
           </a>
         </article>
