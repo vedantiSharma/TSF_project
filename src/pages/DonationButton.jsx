@@ -4,7 +4,7 @@ const DonationButton = () => {
   useEffect(() => {
     const script = document.createElement('script');
     script.src = 'https://checkout.razorpay.com/v1/payment-button.js';
-    script.setAttribute('data-payment_button_id', 'pl_M0dNyzGHsrqfAy');
+    script.setAttribute('data-payment_button_id', 'pl_M2I6cYZN3d7OuX');
     script.async = true;
     document.getElementById('donation-form').appendChild(script);
 
