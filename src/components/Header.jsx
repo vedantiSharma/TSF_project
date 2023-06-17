@@ -7,7 +7,7 @@ const Header = () => {
     <header id="header" className="header">
       <nav className="nav container">
         <a href="#home" className="nav__logo">
-        Glowing Future Leaders
+        Raising Smiles Charity
 
         </a>
 

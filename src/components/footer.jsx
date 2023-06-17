@@ -14,7 +14,7 @@ const Footer = () => {
       <div>
         <img src={image} alt="Founder" />
 
-        <h2>  Future Leaders Fund</h2>
+        <h2>  Raising Smiles Charity</h2>
         <p>The future of the world depends on the education of our children</p>
       </div>
 
